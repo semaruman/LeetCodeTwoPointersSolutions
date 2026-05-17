@@ -35,6 +35,7 @@ namespace LeetCodeTwoPointersSolutions.Easy.ValidPalindrome
             return true;
         }
 
+
         //простое решение без оптимизации (18 ms | Beats 54.91%)
         /*
         public bool IsPalindrome(string s)
