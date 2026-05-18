@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace LeetCodeTwoPointersSolutions.Medium
+namespace LeetCodeTwoPointersSolutions.Medium.TwoSum2InputArrayIsSorted
 {
     public class Solution
     {
